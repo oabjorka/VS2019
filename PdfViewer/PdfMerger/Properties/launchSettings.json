@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PdfMerger": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\oabjo\\Dropbox\\OlesArkiv\\000 Innboks\\pdf\""
+    }
+  }
+}

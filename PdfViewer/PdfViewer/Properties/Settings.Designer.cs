@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OabWpfApp.Properties
+namespace PdfViewer.Properties
 {
 
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OabWpfApp", "OabWpfApp\OabWpfApp.csproj", "{D319DEDE-755D-43CE-8044-58D892DBA126}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenfordConsole", "BenfordConsole\BenfordConsole.csproj", "{DA6B203C-2EC9-4151-BC68-13BB700D33C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D319DEDE-755D-43CE-8044-58D892DBA126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D319DEDE-755D-43CE-8044-58D892DBA126}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D319DEDE-755D-43CE-8044-58D892DBA126}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D319DEDE-755D-43CE-8044-58D892DBA126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6B203C-2EC9-4151-BC68-13BB700D33C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6B203C-2EC9-4151-BC68-13BB700D33C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6B203C-2EC9-4151-BC68-13BB700D33C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6B203C-2EC9-4151-BC68-13BB700D33C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {922E5A48-F076-4461-B7DD-32FB894AAE0F}
+		SolutionGuid = {00C6347D-9F07-4C06-82E0-9AF803BB3BC1}
 	EndGlobalSection
 EndGlobal
